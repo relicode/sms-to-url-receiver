@@ -1,0 +1,9 @@
+{
+  "name": "sms-to-url-receiver",
+  "version": "0.0.0",
+  "type": "module",
+  "license": "BSD",
+  "scripts": {
+    "install": "python3 -m venv python3-venv && python3-venv/bin/pip install -r requirements.txt"
+  }
+}
